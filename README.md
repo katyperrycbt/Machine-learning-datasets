@@ -1,7 +1,7 @@
 ﻿# Machine-learning-datasets
  
  ## Import with Pandas 
-  * Browse to the data page to import on this repository
+  * Browse to the file in this repository
   * In the right corner, press 'Raw'
   * Copy URL, a valid `.csv` file path should start with `https://raw.githubusercontent.com/` and end with `.csv`
    ```python
